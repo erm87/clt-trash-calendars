@@ -23,24 +23,6 @@ page_sections:
     Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
     Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
     Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><p></p><table><tbody><tr><td>Wednesday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Thursday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><table><tbody><tr><td>Wednesday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Thursday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><table><tbody><tr><td>Wednesday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Thursday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
-    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
     Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><p>asdf</p>"
   headline: ''
 
