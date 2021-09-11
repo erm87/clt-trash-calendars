@@ -21,7 +21,7 @@ page_sections:
   slug: slug-huh
   content: content feature body content
   media:
-    image: https://res.cloudinary.com/erm87/image/upload/v1631377777/jpegPIA24546_xbh6b3.jpg
+    image: ''
     alt_text: this is a truck with bricks
 
 ---
