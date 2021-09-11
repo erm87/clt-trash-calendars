@@ -2,9 +2,8 @@
 block: one-column-1
 headline: ''
 slug: ''
-content: |2
-
-  ### Table title
+content: |
+  Table title
 
   | Header | Header | Header |
   | --- | --- | --- |
