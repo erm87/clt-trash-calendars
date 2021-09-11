@@ -6,7 +6,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Hello
-  content: "<p>This is eric.</p>"
+  content: "<p>This is eric.</p><ul><li><p>an</p></li><li><p>actual</p></li><li><p>list</p></li></ul><ol><li><p>numbered</p></li><li><p>list</p></li></ol><h1>header
+    1</h1><h2>harder 2</h2><p></p><p></p>"
 - template: 1-column-text
   block: one-column-1
   headline: 1 column text
