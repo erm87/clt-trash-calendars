@@ -12,9 +12,9 @@ page_sections:
     M-F.</p></li><li><p>♻️  Recycling is collected every other week depending on your
     color code (Green or Orange).</p></li><li><p>\U0001F384. Observed holidays, all
     collection services operate on a one-day delay with Friday customers serviced
-    on Saturday.</p></li></ul><p></p><p>Find your trash and recycling collection day
-    along with your recycling color code by entering your address at the Mecklenburg
-    County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p><p></p><p></p><p></p><p>Helpful
+    on Saturday.</p></li><li><p>\U0001F6A8  Find your trash and recycling collection
+    day along with your recycling color code by entering your address at the Mecklenburg
+    County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul><p></p><p></p><p></p><p>Helpful
     Links:</p><ol><li><p>GeoPortal to find your collection day (<a href=\"https://www.google.com/url?q=https://mcmap.org/geoportal/?q%3Dtrash&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw13TWXjuDxwNntA_30xaqAH\">link</a>)</p></li><li><p>2021
     CLT Collection Calendar (<a href=\"https://www.google.com/url?q=https://charlottenc.gov/SWS/Documents/SWS_2021_Calendar_3Pages_112020.pdf&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1_rng4Egc1d5TsvDkHMg4i\">.pdf</a>)</p></li><li><p>What
     can I recycle? (<a href=\"https://www.google.com/url?q=https://www.mecknc.gov/LUESA/SolidWaste/Disposal-Recycling/Pages/what-can-and-cannot-be-recycled.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw22ruJ76ywJbtUiHZseMIEQ\">link</a>)</p></li><li><p>Schedule
