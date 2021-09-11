@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Charlotte Trash Schedule
 date: 
 page_sections:
 - template: detail-content
