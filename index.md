@@ -26,11 +26,11 @@ page_sections:
     target=\"_blank\">link</a>)</p></li></ol><p></p>"
 - template: 1-column-text
   block: one-column-1
-  content: |-
-    | Syntax      | Description |
-    | ----------- | ----------- |
-    | Header      | Title       |
-    | Paragraph   | Text        |
+  content: |2-
+        | Syntax      | Description | Test Text     |
+        | :---        |    :----:   |          ---: |
+        | Header      | Title       | Here's this   |
+        | Paragraph   | Text        | And more      |
   headline: ''
   slug: ''
 markdown_content: |2-
