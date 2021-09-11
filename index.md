@@ -19,7 +19,7 @@ page_sections:
   media_alignment: Right
   headline: content feature
   slug: slug-huh
-  content: content feature body contentss
+  content: content feature body contentssss
   media:
     image: https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100/q_auto,f_auto,dpr_auto/v1631382584/UL6A6537_ftovad.jpg
     alt_text: this is a truck with brickssas
