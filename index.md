@@ -21,7 +21,7 @@ page_sections:
   slug: slug-huh
   content: content feature body content
   media:
-    image: "/uploads/2021/09/11/nebraska-classic-car-fire-4.jpg"
+    image: "/v1631377777/jpegPIA24546_xbh6b3.jpg"
     alt_text: this is a truck with bricks
 
 ---
