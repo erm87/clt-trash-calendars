@@ -11,5 +11,3 @@ fields:
   name: column
   label: Column
   template: text-column
-pages:
-- _posts/2021-09-11-test.md
