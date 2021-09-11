@@ -60,6 +60,7 @@ markdown_content: |2-
 ---
 | Collection Day 	| Recycling Color 	| Google Calendar 	| iCal            	|
 |----------------	|-----------------	|-----------------	|-----------------	|
+---
 | Monday         	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
 |                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
 | Tuesday        	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
