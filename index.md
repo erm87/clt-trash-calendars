@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: detail-content
   block: text-1
-  content: "<p>Charlotte Trash Schedules</p><p></p><p>\U0001F44B Hello fellow Charlotteans!</p><p>Below
+  content: "<h1>Charlotte Trash Schedules</h1><p></p><p>\U0001F44B Hello fellow Charlotteans!</p><p>Below
     you will find Google Calendars for your specific collection day and recycling
     schedule.</p><h2>To know</h2><ul><li><p>Trash is collected on weekdays M-F.</p></li><li><p>Recycling
     is collected every other week depending on your color code (Green or Orange).</p></li><li><p>Observed
@@ -16,3 +16,15 @@ page_sections:
   headline: ''
 
 ---
+| Collection Day 	| Recycling Color 	| Google Calendar 	| iCal            	|
+|----------------	|-----------------	|-----------------	|-----------------	|
+| Monday         	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
+|                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
+| Tuesday        	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
+|                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
+| Wednesday      	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
+|                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
+| Thursday       	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
+|                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
+| Friday         	| 🟢 Green         	|    Subscribe    	| Download (.ics) 	|
+|                	| 🟠 Orange        	|    Subscribe    	| Download (.ics) 	|
