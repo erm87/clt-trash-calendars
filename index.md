@@ -27,3 +27,21 @@ page_sections:
   headline: ''
 
 ---
+| --- | --- | --- | --- |
+| Wednesday | 🟢 Green | Subscribe | Download (.ics) |
+|  | 🟠 Orange | Subscribe | Download (.ics) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Thursday | 🟢 Green | Subscribe | Download (.ics) |
+|  | 🟠 Orange | Subscribe | Download (.ics) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Friday | 🟢 Green | Subscribe | Download (.ics) |
+|  | 🟠 Orange | Subscribe | Download (.ics) |
