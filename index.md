@@ -14,6 +14,5 @@ page_sections:
     collection day along with your recycling color code by entering your address at
     the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul>"
   headline: ''
-published: false
 
 ---
