@@ -1,0 +1,22 @@
+---
+block: one-column-1
+headline: test
+slug: test
+content: |2
+
+  ### Table title
+
+  | Header | Header | Header |
+  | --- | --- | --- |
+  | Cell | Cell | Cell |
+  | Cell | Cell | Cell |
+  | Cell | Cell | Cell |
+
+---
+### Table title
+
+| Header | Header | Header  |
+| ------ | ------ | ------- |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
