@@ -10,8 +10,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 1 column text
-  slug: "/slug"
-  content: hello again
+  slug: what-slug
+  content: hello again<br><br>• a bullet<br>• <a href="google.com" title="">another
+    bulletr bullet</a><br><strong>• bold</strong>
 - template: content-feature
   block: feature-1
   media_alignment: Right
