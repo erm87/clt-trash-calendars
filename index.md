@@ -11,7 +11,7 @@ page_sections:
     schedule.</p><h2>To know</h2><ul><li><p>Trash is collected on weekdays M-F.</p></li><li><p>Recycling
     is collected every other week depending on your color code (Green or Orange).</p></li><li><p>Observed
     holidays, all collection services operate on a one-day delay with Friday customers
-    serviced on Saturday.</p></li><li><p>\U0001F6A8  Find your trash and recycling
+    serviced on Saturday.</p></li><li><p>\U0001F6A8   Find your trash and recycling
     collection day along with your recycling color code by entering your address at
     the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul><p></p><p></p><p></p><p>Helpful
     Links:</p><ol><li><p>GeoPortal to find your collection day (<a href=\"https://www.google.com/url?q=https://mcmap.org/geoportal/?q%3Dtrash&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw13TWXjuDxwNntA_30xaqAH\">link</a>)</p></li><li><p>2021
