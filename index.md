@@ -22,6 +22,6 @@ page_sections:
   content: content feature body content
   media:
     image: https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100/q_auto,f_auto,dpr_auto/v1631381059/jpegPIA24546_yvijwy.jpg
-    alt_text: this is a truck with bricks
+    alt_text: this is a truck with brickss
 
 ---
