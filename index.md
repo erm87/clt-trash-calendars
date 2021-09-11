@@ -21,7 +21,117 @@ page_sections:
     target=\"_blank\">Download .ics</a></td><td></td></tr><tr><td>Monday</td><td>\U0001F7E0
     Orange</td><td><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
     target=\"_blank\">Subscribe</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
-    target=\"_blank\">Download .ics</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p></p>"
+    target=\"_blank\">Download .ics</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><table><tbody><tr><th>Collection
+    Day</th><th>Recycling Color</th><th>Google Calendar</th><th>iCal</th></tr><tr><td
+    rowspan=\"2\">Monday</td><td>\U0001F7E2 Green</td><td><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>\U0001F7E0 Orange</td><td><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Tuesday</td><td>\U0001F7E2 Green</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Tuesday</td><td>\U0001F7E0 Orange</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Wednesday</td><td>\U0001F7E2 Green</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>^^ Wednesday</td><td>\U0001F7E0 Orange</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Thursday</td><td>\U0001F7E2 Green</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Thursday</td><td>\U0001F7E0 Orange</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Friday</td><td>\U0001F7E2 Green</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr><tr><td>Friday</td><td>\U0001F7E0 Orange</td><td><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">[Subscribe](</a><a href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    title=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a><a
+    href=\"https://calendar.google.com/calendar/u/0?cid=M3RjNmRuYm1wcmRnM3Ywc2xzZXRidmV0aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\"
+    target=\"_blank\">)</a></td><td><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">[Download .ics](</a><a href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    title=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics</a><a
+    href=\"https://calendar.google.com/calendar/ical/3tc6dnbmprdg3v0slsetbvetik%40group.calendar.google.com/public/basic.ics\"
+    target=\"_blank\">)</a></td></tr></tbody></table>"
 markdown_content: |2-
       | Syntax      | Description |
       | ----------- | ----------- |
