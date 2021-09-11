@@ -6,7 +6,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Charlotte Trash Calendars
-  content: "<h1>Charlotte Trash Schedules</h1><p>\U0001F44B  Hello fellow Charlotteans!</p><p>Below
+  content: "<h1>Charlotte Trash Schedules</h1><p></p><p>\U0001F44B  Hello fellow Charlotteans!</p><p>Below
     you will find Google Calendars for your specific collection day and recycling
     schedule.</p><h2>To know</h2><ul><li><p>\U0001F5D1  Trash is collected on weekdays
     M-F.</p></li><li><p>♻️  Recycling is collected every other week depending on your
