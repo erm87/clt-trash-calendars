@@ -23,7 +23,7 @@ page_sections:
     Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
     Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
     Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
-    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><p></p><table><tbody><tr><th>Collection
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><hr><table><tbody><tr><th>Collection
     Day</th><th>Recycling Color</th><th>Google Calendar</th><th>iCal</th></tr><tr><td>Monday</td><td>\U0001F7E2
     Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
     Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Tuesday</td><td>\U0001F7E2
