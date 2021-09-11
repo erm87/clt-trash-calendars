@@ -20,5 +20,10 @@ page_sections:
     bulk item pickup (<a href=\"https://www.google.com/url?q=https://servicerequest.charlottenc.gov/service/BULKITEM&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1vFIZyzoWb-n40KJRDVc9P\">link</a>)</p></li><li><p>City
     of Charlotte Solid Waste Services Administration Policy (<a href=\"https://www.google.com/url?q=https://charlottenc.gov/SWS/Documents/SWS_Administrative_Policy_January_2018.pdf&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0ctmesYsqno7LxwiFf6Gef\">.pdf</a>)</p></li><li><p>CLT
     Solid Waste Services homepage (<a href=\"https://www.google.com/url?q=https://charlottenc.gov/SWS/Pages/default.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0W89x-gCL_1UrAeKq1mO_o\">link</a>)</p></li></ol><p></p>"
+markdown_content: |2-
+      | Syntax      | Description |
+      | ----------- | ----------- |
+      | Header      | Title       |
+      | Paragraph   | Text        |
 
 ---
