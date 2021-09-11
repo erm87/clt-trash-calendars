@@ -24,15 +24,6 @@ page_sections:
     target=\"_blank\">.pdf</a>)</p></li><li><p>CLT Solid Waste Services homepage (<a
     href=\"https://www.google.com/url?q=https://charlottenc.gov/SWS/Pages/default.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0W89x-gCL_1UrAeKq1mO_o\"
     target=\"_blank\">link</a>)</p></li></ol><p></p>"
-- template: 1-column-text
-  block: one-column-1
-  content: |2-
-        | Syntax      | Description | Test Text     |
-        | :---        |    :----:   |          ---: |
-        | Header      | Title       | Here's this   |
-        | Paragraph   | Text        | And more      |
-  headline: ''
-  slug: ''
 markdown_content: |2-
       | Syntax      | Description |
       | ----------- | ----------- |
