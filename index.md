@@ -12,24 +12,18 @@ page_sections:
     holidays, all collection services operate on a one-day delay with Friday customers
     serviced on Saturday.</p></li><li><p>\U0001F6A8 Find your trash and recycling
     collection day along with your recycling color code by entering your address at
-    the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul><p>|
-    Collection Day \t| Recycling Color \t| Google Calendar \t| iCal            \t|</p><p>|----------------\t|-----------------\t|-----------------\t|-----------------\t|</p><p>|
-    Monday         \t| \U0001F7E2 Green         \t|    Subscribe    \t| Download (.ics)
-    \t|</p><p>|                \t| \U0001F7E0 Orange        \t|    Subscribe    \t|
-    Download (.ics) \t|</p><p>|                \t|                 \t|                 \t|
-    \                \t|</p><p>| Tuesday        \t| \U0001F7E2 Green         \t|    Subscribe
-    \   \t| Download (.ics) \t|</p><p>|                \t| \U0001F7E0 Orange        \t|
-    \   Subscribe    \t| Download (.ics) \t|</p><p>|                \t|                 \t|
-    \                \t|                 \t|</p><p>| Wednesday      \t| \U0001F7E2
-    Green         \t|    Subscribe    \t| Download (.ics) \t|</p><p>|                \t|
-    \U0001F7E0 Orange        \t|    Subscribe    \t| Download (.ics) \t|</p><p>|                \t|
-    \                \t|                 \t|                 \t|</p><p>| Thursday
-    \      \t| \U0001F7E2 Green         \t|    Subscribe    \t| Download (.ics) \t|</p><p>|
-    \               \t| \U0001F7E0 Orange        \t|    Subscribe    \t| Download
-    (.ics) \t|</p><p>|                \t|                 \t|                 \t|
-    \                \t|</p><p>| Friday         \t| \U0001F7E2 Green         \t|    Subscribe
-    \   \t| Download (.ics) \t|</p><p>|                \t| \U0001F7E0 Orange        \t|
-    \   Subscribe    \t| Download (.ics) \t|</p><p></p><p>asdf</p>"
+    the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul><table><tbody><tr><th>Collection
+    Day</th><th>Recycling Color</th><th>Google Calendar</th><th>iCal</th></tr><tr><td>Monday</td><td>\U0001F7E2
+    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Tuesday</td><td>\U0001F7E2
+    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Wednesday</td><td>\U0001F7E2
+    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Thursday</td><td>\U0001F7E2
+    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Friday</td><td>\U0001F7E2
+    Green</td><td>Subscribe</td><td>Download (.ics)</td></tr><tr><td></td><td>\U0001F7E0
+    Orange</td><td>Subscribe</td><td>Download (.ics)</td></tr></tbody></table><p></p><p>asdf</p>"
   headline: ''
 
 ---
