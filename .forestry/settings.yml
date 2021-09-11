@@ -24,7 +24,7 @@ sections:
 upload_dir: ''
 public_path: https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100/q_auto,f_auto,dpr_auto
 front_matter_path: https://res.cloudinary.com/erm87/image/upload
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
