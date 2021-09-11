@@ -27,3 +27,14 @@ page_sections:
   headline: ''
 
 ---
+Collection Day	Recycling Color	Google Calendar	iCal
+Monday	🟢 Green	Subscribe	Download (.ics)
+🟠 Orange	Subscribe	Download (.ics)
+Tuesday	🟢 Green	Subscribe	Download (.ics)
+🟠 Orange	Subscribe	Download (.ics)
+Wednesday	🟢 Green	Subscribe	Download (.ics)
+🟠 Orange	Subscribe	Download (.ics)
+Thursday	🟢 Green	Subscribe	Download (.ics)
+🟠 Orange	Subscribe	Download (.ics)
+Friday	🟢 Green	Subscribe	Download (.ics)
+🟠 adsfasdf	Subscribe	Download (.ics)
