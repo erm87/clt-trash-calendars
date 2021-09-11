@@ -31,5 +31,14 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- name: markdown_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: markdown content
 pages:
 - index.md
