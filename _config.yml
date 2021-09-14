@@ -4,7 +4,7 @@ author: Eric Morgan
 email: ericreedmorgan@gmail.com
 description: Calendars for CLT trash and recycle schedule
 baseurl: "/ubuild-jekyll"
-url: ''
+url: charlottetrashschedule.com
 defaults:
 - scope:
     path: ''
