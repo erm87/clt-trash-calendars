@@ -39,6 +39,6 @@ page_sections:
     calendar</a></td><td><a href=\"https://calendar.google.com/calendar/ical/h7tml3j2g31v9n2jk20jbk63cs%40group.calendar.google.com/public/basic.ics\">Download
     [.ics]</a></td></tr><tr><td>\U0001F7E0 Orange</td><td><a href=\"https://calendar.google.com/calendar/u/0?cid=b3U4NmdodWttYmNuaWs1MDM3M2NjaWhyZGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\">Add
     calendar</a></td><td><a href=\"https://calendar.google.com/calendar/ical/ou86ghukmbcnik50373ccihrdk%40group.calendar.google.com/public/basic.ics\">Download
-    [.ics]</a></td></tr></tbody></table><p>asdf</p><p></p>"
+    [.ics]</a></td></tr></tbody></table><p>asdfasdf</p><p></p>"
 
 ---
