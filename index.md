@@ -125,7 +125,7 @@ page_sections:
   headline: Helpful Links
 - template: simple-footer
   block: footer-1
-  content: "\U0001F41B Find a bug? Let me know <a href=\"https://github.com/erm87/clt-trash-calendars/issues\"
-    title=\"\">here</a>!"
+  content: "\U0001F41B Find a bug? Let me know by <a href=\"https://github.com/erm87/clt-trash-calendars/issues\"
+    title=\"\">submitting an issue</a>!"
 
 ---
