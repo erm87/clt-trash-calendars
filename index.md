@@ -96,17 +96,23 @@ page_sections:
     on the Green/Orange every-other-week schedule for recycling</p></li></ul></li><li><p><strong>Does
     the calendar send notifications?</strong></p><ul><li><p>By default, I've set a
     single notification per week the evening before the collection day at 6 pm ET.
-    This can be customized to your liking. </p></li></ul></li><li><p><strong>What
-    are the calendar links</strong>?</p><ul><li><p>The Google Calendar links will
-    add these to your Google Calendar and look like: <img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631676434/clttrash/Screen_Shot_2021-09-14_at_11.25.58_PM_yiplda.png\"></p></li><li><p>The
-    iCal links will download a standard .ics calendar file that you can import to
-    any other calendar app of your choosing e.g. Apple Calendar, Outlook, etc.</p></li></ul></li><li><p><strong>What
-    about holidays?</strong></p><ul><li><p>All holidays are included in the calendars
-    and shifted by the appropriate day depending on where they land in the week \U0001F44D</p></li></ul></li><li><p><strong>Why
+    This can be customized to your liking.</p></li></ul></li><li><p><strong>What are
+    the calendar links</strong>?</p><ul><li><p>The Google Calendar links will add
+    these to your Google Calendar and look like: <img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631676434/clttrash/Screen_Shot_2021-09-14_at_11.25.58_PM_yiplda.png\"
+    title=\"Thursday Recycling Orange Code Schedule\" alt=\"Google Calendar screenshot
+    showing how the weekly collection days are presented. Using the moth of September
+    as an example.\"></p></li><li><p>The iCal links will download a standard .ics
+    calendar file that you can import to any other calendar app of your choosing e.g.
+    Apple Calendar, Outlook, etc.</p></li></ul></li><li><p><strong>What about holidays?</strong></p><ul><li><p>All
+    holidays are included in the calendars and shifted by the appropriate day depending
+    on where they land in the week \U0001F44D</p></li></ul></li><li><p><strong>Why
     are you doing this</strong>?</p><ul><li><p>I missed a few recycling weeks this
     year and got tired of the terrible Charlotte Waste Management website so I made
     a calendar to get reminded automatically.</p></li><li><p>And then figured I'd
-    share the wealth and do all 10 calendars so others could enjoy.</p></li></ul></li></ul>"
+    share the wealth and do all 10 calendars so others could enjoy.</p></li></ul></li><li><p><strong>Why
+    is this page so simple?</strong></p><ul><li><p><img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631678259/clttrash/Screen_Shot_2021-09-14_at_11.56.42_PM_vfztv8.png\"
+    title=\"PageSpeed Score\" alt=\"PageSpeed Score of 99 showing all green metrics
+    indicating a blazing fast website.\"></p></li></ul></li></ul>"
   headline: FAQ
 - template: detail-content
   block: text-1
