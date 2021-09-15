@@ -119,9 +119,10 @@ page_sections:
     year and got tired of the terrible Charlotte Waste Management website so I made
     a calendar to get reminded automatically.</p></li><li><p>And then figured I'd
     share the wealth and do all 10 calendars so others could enjoy.</p></li></ul></li><li><p><strong>Why
-    is this page so simple?</strong></p><ul><li><p><img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631678259/clttrash/Screen_Shot_2021-09-14_at_11.56.42_PM_vfztv8.png\"
-    title=\"PageSpeed Score\" alt=\"PageSpeed Score of 99 showing all green metrics
-    indicating a blazing fast website.\"></p></li></ul></li></ul>"
+    is this page so simple?</strong></p><ul><li><p>I'm obsessed:</p><p><img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631713905/clttrash/Screen_Shot_2021-09-15_at_9.50.06_AM_muhxhg.png\"
+    title=\"Lighthouse Score\" alt=\"Lighthouse Report showing 99/100 for Performance,
+    100/100 for Accessibility, 100/100 for Best Practices, and 100/100 for SEO.\">
+    </p></li></ul></li></ul>"
   headline: FAQ
 - template: simple-footer
   block: footer-1
