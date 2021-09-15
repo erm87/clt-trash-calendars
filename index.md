@@ -14,7 +14,7 @@ page_sections:
     Find your trash and recycling collection day along with your recycling color code
     by entering your address at the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\"
     title=\"\">GeoPortal</a>.</p>"
-  headline: ''
+  headline: 'Missing a recycling day sucks. '
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -89,6 +89,27 @@ page_sections:
     content: ''
 - template: detail-content
   block: text-1
+  content: "<ul><li><p><strong>What year are these calendars for?</strong></p><ul><li><p>This
+    calendar is for 2021 and runs until the week of December 31. I'll update for 2022
+    as that calendar is released later in the year.</p></li></ul></li><li><p><strong>What's
+    the Recycling color code for?</strong></p><ul><li><p>All of Charlotte operates
+    on the Green/Orange every-other-week schedule for recycling</p></li></ul></li><li><p><strong>Does
+    the calendar send notifications?</strong></p><ul><li><p>By default, I've set a
+    single notification per week the evening before the collection day at 6 pm ET.
+    This can be customized to your liking. </p></li></ul></li><li><p><strong>What
+    are the calendar links</strong>?</p><ul><li><p>The Google Calendar links will
+    add these to your Google Calendar and look like: <img src=\"https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631676434/clttrash/Screen_Shot_2021-09-14_at_11.25.58_PM_yiplda.png\"></p></li><li><p>The
+    iCal links will download a standard .ics calendar file that you can import to
+    any other calendar app of your choosing e.g. Apple Calendar, Outlook, etc.</p></li></ul></li><li><p><strong>What
+    about holidays?</strong></p><ul><li><p>All holidays are included in the calendars
+    and shifted by the appropriate day depending on where they land in the week \U0001F44D</p></li></ul></li><li><p><strong>Why
+    are you doing this</strong>?</p><ul><li><p>I missed a few recycling weeks this
+    year and got tired of the terrible Charlotte Waste Management website so I made
+    a calendar to get reminded automatically.</p></li><li><p>And then figured I'd
+    share the wealth and do all 10 calendars so others could enjoy.</p></li></ul></li></ul>"
+  headline: FAQ
+- template: detail-content
+  block: text-1
   content: <ol><li><p>GeoPortal to find your collection day (<a href="https://www.google.com/url?q=https://mcmap.org/geoportal/?q%3Dtrash&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw13TWXjuDxwNntA_30xaqAH">link</a>)</p></li><li><p>2021
     CLT Collection Calendar (<a href="https://www.google.com/url?q=https://charlottenc.gov/SWS/Documents/SWS_2021_Calendar_3Pages_112020.pdf&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1_rng4Egc1d5TsvDkHMg4i">.pdf</a>)</p></li><li><p>What
     can I recycle? (<a href="https://www.google.com/url?q=https://www.mecknc.gov/LUESA/SolidWaste/Disposal-Recycling/Pages/what-can-and-cannot-be-recycled.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw22ruJ76ywJbtUiHZseMIEQ">link</a>)</p></li><li><p>Schedule
@@ -96,16 +117,6 @@ page_sections:
     of Charlotte Solid Waste Services Administration Policy (<a href="https://www.google.com/url?q=https://charlottenc.gov/SWS/Documents/SWS_Administrative_Policy_January_2018.pdf&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0ctmesYsqno7LxwiFf6Gef">.pdf</a>)</p></li><li><p>CLT
     Solid Waste Services homepage (<a href="https://www.google.com/url?q=https://charlottenc.gov/SWS/Pages/default.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0W89x-gCL_1UrAeKq1mO_o">link</a>)</p></li></ol>
   headline: Helpful Links
-- template: detail-content
-  block: text-1
-  content: '<ul><li><p>What year are these calendars for?</p><ul><li><p>This calendar
-    is for 2021 and runs until the week of December 31. I''ll update for 2022 as that
-    calendar is released later in the year.</p></li></ul></li><li><p>What''s the Recycling
-    color code for?</p><ul><li><p>All of Charlotte operates on the Green/Orange every-other-week
-    schedule for recycling</p></li></ul></li><li><p>What are the calendar links?</p><ul><li><p>The
-    Google Calendar links will add these to your Google Calendar and look like: <img
-    src="https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631676434/clttrash/Screen_Shot_2021-09-14_at_11.25.58_PM_yiplda.png"></p></li></ul></li></ul>'
-  headline: FAQ
 - template: simple-footer
   block: footer-1
   content: "\U0001F41B Find a bug? Let me know <a href=\"https://github.com/erm87/clt-trash-calendars/issues\"
