@@ -1,0 +1,108 @@
+---
+block: text-1
+headline: test
+content: "<p></p>"
+published: false
+
+---
+
+# Charlotte Trash Schedules
+
+👋 Hello fellow Charlotteans!
+
+Below you will find Google Calendars for your specific collection day and recycling schedule.
+
+## To know
+
+* Trash is collected on weekdays M-F.
+* Recycling is collected every other week depending on your color code (Green or Orange).
+* Observed holidays, all collection services operate on a one-day delay with Friday customers serviced on Saturday.
+* 🚨 Find your trash and recycling collection day along with your recycling color code by entering your address at the Mecklenburg County [GeoPortal](https://mcmap.org/geoportal/?q=trash "GeoPortal").
+
+DFASDF
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-p170{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-gtso{background-color:#5d89b4;border-color:inherit;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 469px">
+<colgroup>
+<col style="width: 114px">
+<col style="width: 111px">
+<col style="width: 139px">
+<col style="width: 105px">
+</colgroup>
+<thead>
+<tr>
+<th class="tg-gtso">Collection Day</th>
+<th class="tg-gtso">Recycle Color</th>
+<th class="tg-gtso">Google Calendar</th>
+<th class="tg-gtso">iCal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tg-mfxt" rowspan="2">Monday</td>
+<td class="tg-c6of">🟢 Green</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=bjBvZHNzOGczajYzY3RhczhvbnE3MGcxY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/n0odss8g3j63ctas8onq70g1cs%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-c6of">🟠 Orange</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=azd2cW5razR1amN0dHFlMTQxc3VuYXRmMGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/k7vqnkk4ujcttqe141sunatf0g%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-p170" rowspan="2">Tuesday</td>
+<td class="tg-y698">🟢 Green</td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/u/0?cid=dGZocGFjZXJrbzZoZmNkdHQwdDk1NzdvaTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/ical/tfhpacerko6hfcdtt0t9577oi4%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-y698">🟠 Orange</td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/u/0?cid=N2lobzVxaHZmajhydmcxbXZhNHUzbmlwMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/ical/7iho5qhvfj8rvg1mva4u3nip2c%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-mfxt" rowspan="2">Wednesday</td>
+<td class="tg-c6of">🟢 Green</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=OTFpN2RoazZuYWRydDNka2FwdHZtb2p0aG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/91i7dhk6nadrt3dkaptvmojtho%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-c6of">🟠 Orange</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=cjY2cjFqZW01Mzk4bnI1MWQ0ZDFxZXU2NmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/r66r1jem5398nr51d4d1qeu66g%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-p170" rowspan="2">Thursday</td>
+<td class="tg-y698">🟢 Green</td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/u/0?cid=bHRobTRsYmE5aDNwZDB1a3F0N2xtcG5vNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/ical/lthm4lba9h3pd0ukqt7lmpno44%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-y698">🟠 Orange</td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/u/0?cid=aDd0bWwzajJnMzF2OW4yamsyMGpiazYzY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-y698"><a href="https://calendar.google.com/calendar/ical/h7tml3j2g31v9n2jk20jbk63cs%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-mfxt" rowspan="2">Friday</td>
+<td class="tg-c6of">🟢 Green</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=NHVhZmY4cHRqZzZ2cGtlZ2lhaDZicG10czRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/h7tml3j2g31v9n2jk20jbk63cs%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+<tr>
+<td class="tg-c6of">🟠 Orange</td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/u/0?cid=b3U4NmdodWttYmNuaWs1MDM3M2NjaWhyZGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">Add calendar</a></td>
+<td class="tg-c6of"><a href="https://calendar.google.com/calendar/ical/ou86ghukmbcnik50373ccihrdk%40group.calendar.google.com/public/basic.ics" target="_blank" rel="noopener noreferrer">Download \[.ics\]</a></td>
+</tr>
+</tbody>
+</table>
