@@ -3,29 +3,17 @@ layout: blocks
 title: Homepage
 date: 
 page_sections:
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: "<p><strong>Hello fellow Charlotteans.</strong> Below you will find Google
-    Calendars for your specific collection day and recycling schedule.</p><h2>To know</h2><ul><li><p>Trash
-    is collected on weekdays M-F.</p></li><li><p>Recycling is collected every other
-    week depending on your color code (Green or Orange).</p></li><li><p>Observed holidays,
-    all collection services operate on a one-day delay with Friday customers serviced
-    on Saturday.</p><p></p></li></ul><p>\U0001F6A8 Find your trash and recycling collection
-    day along with your recycling color code by entering your address at the Mecklenburg
-    County GeoPortal</p><p></p>"
-  headline: Charlotte Trash Schedules
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: detail-content
   block: text-1
-  content: |-
-    # Charlotte Treash
-
-    asdf
-  headline: 2021 Charlotte Calendar Table
+  content: "<h2>Charlotte Trash Schedules</h2><p></p><p><strong>Hello fellow Charlotteans.</strong>
+    Below you will find Google Calendars for your specific collection day and recycling
+    schedule.</p><h2>To know</h2><ul><li><p>Trash is collected on weekdays M-F.</p></li><li><p>Recycling
+    is collected every other week depending on your color code (Green or Orange).</p></li><li><p>Observed
+    holidays, all collection services operate on a one-day delay with Friday customers
+    serviced on Saturday.</p><p></p></li></ul><p>\U0001F6A8 Find your trash and recycling
+    collection day along with your recycling color code by entering your address at
+    the Mecklenburg County GeoPortal</p>"
+  headline: "\U0001F44B"
 - template: 3-column-text
   block: three-column-1
   col_1:
