@@ -14,6 +14,5 @@ page_sections:
     serviced on Saturday.</p></li><li><p>\U0001F6A8 Find your trash and recycling
     collection day along with your recycling color code by entering your address at
     the Mecklenburg County <a href=\"https://mcmap.org/geoportal/?q=trash\" title=\"GeoPortal\">GeoPortal</a>.</p></li></ul>"
-published: false
 
 ---
