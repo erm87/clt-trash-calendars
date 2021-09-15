@@ -96,6 +96,16 @@ page_sections:
     of Charlotte Solid Waste Services Administration Policy (<a href="https://www.google.com/url?q=https://charlottenc.gov/SWS/Documents/SWS_Administrative_Policy_January_2018.pdf&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0ctmesYsqno7LxwiFf6Gef">.pdf</a>)</p></li><li><p>CLT
     Solid Waste Services homepage (<a href="https://www.google.com/url?q=https://charlottenc.gov/SWS/Pages/default.aspx&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0W89x-gCL_1UrAeKq1mO_o">link</a>)</p></li></ol>
   headline: Helpful Links
+- template: detail-content
+  block: text-1
+  content: '<ul><li><p>What year are these calendars for?</p><ul><li><p>This calendar
+    is for 2021 and runs until the week of December 31. I''ll update for 2022 as that
+    calendar is released later in the year.</p></li></ul></li><li><p>What''s the Recycling
+    color code for?</p><ul><li><p>All of Charlotte operates on the Green/Orange every-other-week
+    schedule for recycling</p></li></ul></li><li><p>What are the calendar links?</p><ul><li><p>The
+    Google Calendar links will add these to your Google Calendar and look like: <img
+    src="https://res.cloudinary.com/erm87/image/upload/c_scale,w_auto:100:688/q_auto,f_auto,dpr_auto/v1631676434/clttrash/Screen_Shot_2021-09-14_at_11.25.58_PM_yiplda.png"></p></li></ul></li></ul>'
+  headline: FAQ
 - template: simple-footer
   block: footer-1
   content: "\U0001F41B Find a bug? Let me know <a href=\"https://github.com/erm87/clt-trash-calendars/issues\"
